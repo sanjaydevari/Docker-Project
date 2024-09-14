@@ -88,5 +88,15 @@ Select the source as GITHUB
 
 Select the Repository and the Branch
 
+![Screenshot 2024-09-10 183155 10](https://github.com/user-attachments/assets/a094c36d-b209-47d8-ac48-f75efd351b58)
+
+# `Build`
+
+Select the build as CodeBuild
+
+select the rgion
+
+Create a project in codebuild and select i
+
 
 
