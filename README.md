@@ -96,7 +96,18 @@ Select the build as CodeBuild
 
 select the rgion
 
-Create a project in codebuild and select i
+Create a project in codebuild and select it
+
+![Screenshot 2024-09-10 183326 11](https://github.com/user-attachments/assets/89df6900-1068-44f5-aac3-bf0214b3ec9a)
+
+# `Deploy`
+select the deploy as a elasticbeanstalk
+
+select the region
+
+Select the application and environment that we created earlier in the elastic beanstalk
+
+
 
 
 
