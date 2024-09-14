@@ -65,4 +65,8 @@ Create and select the ec2-instance profile
 
 this project doesn't requires any other configurations click on skip all and than on submit
 
+![Screenshot 2024-09-10 180431 5](https://github.com/user-attachments/assets/6dd5e04a-8393-48b1-a7be-d450c5ce1565)
+
+# Creation of pipeline using codepipeline:
+
 
