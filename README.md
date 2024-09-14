@@ -84,5 +84,9 @@ Select new-service role
 # `SOURCE`
 Select the source as GITHUB
 
+[Screenshot 2024-09-10 182723 9](https://github.com/user-attachments/assets/bab6c0a3-1ea6-456b-b87a-f4425a6de941)
+
+Select the Repository and the Branch
+
 
 
