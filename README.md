@@ -61,4 +61,8 @@ Select the ec2-keypair
 
 Create and select the ec2-instance profile
 
+![Screenshot 2024-09-10 180131 4](https://github.com/user-attachments/assets/c4d39626-0ee5-4363-84d4-4a251dce8c77)
+
+this project doesn't requires any other configurations click on skip all and than on submit
+
 
