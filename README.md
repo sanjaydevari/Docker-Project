@@ -109,6 +109,10 @@ Select the application and environment that we created earlier in the elastic be
 
 Select on create pipeline. Than the pipeline has created.
 
+![Screenshot 2024-09-10 205707 12](https://github.com/user-attachments/assets/df10292d-9ff4-4f61-8df7-505c5a9a60e5)
+
+The pipeline has executed successfully.
+
 
 
 
