@@ -107,6 +107,8 @@ select the region
 
 Select the application and environment that we created earlier in the elastic beanstalk
 
+Select on create pipeline. Than the pipeline has created.
+
 
 
 
