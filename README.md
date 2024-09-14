@@ -44,3 +44,11 @@ Enter the name of the application
 Enter the name of the environment and check the availability of its domain
 
 Select the platform as managed platform
+
+![Screenshot 2024-09-10 161613 2](https://github.com/user-attachments/assets/ece97270-0f11-44f9-bc0d-bf2425d98183)
+
+Select the application code as sample-application
+
+Select the instance as single-instance(free-tier-eligible)
+
+
