@@ -79,4 +79,10 @@ Select the pipeline-type as V2
 
 Select new-service role
 
+![Screenshot 2024-09-10 182549 8](https://github.com/user-attachments/assets/a27bd903-0c1f-4510-ac8c-4e0765bf924d)
+
+# `SOURCE`
+Select the source as GITHUB
+
+
 
