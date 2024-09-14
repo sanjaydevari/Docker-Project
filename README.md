@@ -75,5 +75,8 @@ Enter the name of the pipeline
 
 Select the pipeline-type as V2
 
+![Screenshot 2024-09-10 182453 7](https://github.com/user-attachments/assets/1277559f-08d6-45cc-b147-b23e6afd0920)
+
+Select new-service role
 
 
