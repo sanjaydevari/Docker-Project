@@ -51,4 +51,14 @@ Select the application code as sample-application
 
 Select the instance as single-instance(free-tier-eligible)
 
+![Screenshot 2024-09-10 161747 3](https://github.com/user-attachments/assets/94d766d2-72df-46a0-8af3-55458507e60c)
+
+Configure the service access
+
+Create a service role or select the existing one if you have it.
+
+Select the ec2-keypair
+
+Create and select the ec2-instance profile
+
 
