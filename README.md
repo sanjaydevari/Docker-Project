@@ -113,6 +113,13 @@ Select on create pipeline. Than the pipeline has created.
 
 The pipeline has executed successfully.
 
+![Screenshot 2024-09-11 131338 13](https://github.com/user-attachments/assets/7e09e707-b36f-4709-bba1-d202ed463bdb)
+
+# `Conclusion:`
+By integrating AWS CodePipeline, CodeBuild, and Elastic Beanstalk, we've established an automated pipeline for building and deploying Dockerized applications. This enables us to deliver changes to our application quickly and reliably, while maintaining consistency and scalability throughout the deployment process.
+
+The Project Is Completed.
+
 
 
 
