@@ -69,4 +69,11 @@ this project doesn't requires any other configurations click on skip all and tha
 
 # Creation of pipeline using codepipeline:
 
+![Screenshot 2024-09-10 182303 6](https://github.com/user-attachments/assets/2b76644a-1f51-45c6-90ce-dbff77d2d988)
+
+Enter the name of the pipeline
+
+Select the pipeline-type as V2
+
+
 
