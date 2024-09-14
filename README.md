@@ -38,3 +38,9 @@ AWS Elastic Beanstalk is a fully managed platform-as-a-service (PaaS) that simpl
 select the environment-tier as web-server environment
 
 Enter the name of the application
+
+![Screenshot 2024-09-10 161317 1](https://github.com/user-attachments/assets/1732a30e-8eca-456b-bb1d-540de8d14c81)
+
+Enter the name of the environment and check the availability of its domain
+
+Select the platform as managed platform
